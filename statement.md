@@ -9,8 +9,8 @@ public class Main {
 public static void main(String[] args) {
 // }
 
-String message = "Hola Amor! <3";
-System.out.prinln(message);
+String message = "Hola Cielo!";
+System.out.println(message);
 
 //{ autofold
 }
